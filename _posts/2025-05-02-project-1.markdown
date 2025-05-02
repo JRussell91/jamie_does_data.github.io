@@ -7,5 +7,5 @@ alt: image-alt
 project-date: May 2025
 client: Start Bootstrap
 category: Data Science
-description: Access this repository - https://github.com/JRussell91/renewable_energy_mix_predictor
+description: This project attempts to build a Random Forest Regressor model which predicts the change in a country's electricity generation from renewable sources over time. Access the repository @ https://github.com/JRussell91/renewable_energy_mix_predictor
 ---
